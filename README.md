@@ -14,6 +14,8 @@ This is for testing comparin
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 And another one
 
 More
