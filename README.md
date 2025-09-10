@@ -21,3 +21,6 @@ More
 Another project text
 
 Nu goed
+
+## Copyright
+2014 Git.Training
